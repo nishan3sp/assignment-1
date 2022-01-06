@@ -13,7 +13,7 @@ h1{
 
 }
 span{
-    color: rgb(189, 255, 6);
+    color: rgb(255, 238, 6);
 }
 .harry{
    text-decoration: none;
@@ -22,5 +22,24 @@ span{
    border-radius: 5px;
    font-weight: 700;
    color: #ffffff;
-   
-}
+   }
+   #mission{
+   padding-left: 500px;
+   }
+   .mission-in{
+       display:flex;
+      }
+      .div{
+          width: 40%;
+         box-shadow: 10px 10px 40px grey;
+         margin-left: 4%;
+         margin-right: 4%;
+         padding-left: 20px;
+         border-left: 7px solid;
+         border-image: linear-gradient( rgb(125, 125, 255),cyan);
+         border-image-slice: 1;
+ }
+      #box{
+          width: 60%;
+      }
+      
