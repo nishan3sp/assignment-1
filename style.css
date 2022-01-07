@@ -13,12 +13,12 @@ h1{
 
 }
 span{
-    color: rgb(255, 238, 6);
+    color: rgb(226, 6, 255);
 }
 .harry{
    
    text-decoration: none;
-   background-image: linear-gradient(rgb(140, 160, 27),rgb(6, 218, 16));
+   background-image: linear-gradient(rgb(250, 171, 1),rgb(245, 208, 0));
    padding: 10px;
    border-radius: 5px;
    font-weight: 700;
@@ -37,7 +37,7 @@ span{
          margin-right: 4%;
          padding-left: 20px;
          border-left: 7px solid;
-         border-image: linear-gradient( rgb(125, 125, 255),cyan);
+         border-image: linear-gradient( rgb(255, 153, 0),rgb(255, 0, 0));
          border-image-slice: 1;
  }
       #box{
