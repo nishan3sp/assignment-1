@@ -16,6 +16,7 @@ span{
     color: rgb(255, 238, 6);
 }
 .harry{
+   
    text-decoration: none;
    background-image: linear-gradient(rgb(140, 160, 27),rgb(6, 218, 16));
    padding: 10px;
@@ -41,5 +42,24 @@ span{
  }
       #box{
           width: 60%;
+      }
+      .hogw{
+          display: flex;
+          padding-top: 50px;
+          padding-right: 100px;
+         
+          
+          
+         
+      }
+      #pic{
+        padding-left: 50px;
+        width: 410px;
+        margin-left: 4%;
+        margin-right: 4%;
+        padding-right: 100px;
+       }
+      #ton{
+        padding-left: 50px;
       }
       
